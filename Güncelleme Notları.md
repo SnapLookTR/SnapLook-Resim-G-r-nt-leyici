@@ -1,25 +1,17 @@
-SnapLook - Resim Görüntüleyici 1.0 güncellemesi yayınlandı.
+Türkçe:
+SnapLook - Resim Görüntüleyici 1.1 sürümü yayınlandı.
 
-SnapLook - Image Viewer version 1.0 has been released.
+İngilizce:
+SnapLook - Image Viewer version 1.1 has been released.
 
-تم إصدار التحديث 1.0 لتطبيق SnapLook - عارض الصور.
+Arapça:
 
-Güncelleme Notları /
+Türkçe:
+Slayt Gösterisi Modu: Resim görüntüleme penceresinde slayt gösterisi simgesine tıklanarak başlatılır veya durdurulur.
 
- Release Notes / 
+İngilizce:
+Slideshow Mode: Started or stopped by clicking the slideshow icon in the image viewing window.
 
-ملاحظات التحديث:
-
-Kullanıcı Sözleşmesi Kaydı: Kullanıcı sözleşmesi artık ilk onaydan sonra sistemde güvenli biçimde saklanmakta, her açılışta yeniden onay istenmemektedir.
-
-User Agreement Logging: The user agreement is now securely stored after initial confirmation, and repeated approval is no longer required at each launch.
-
-تسجيل اتفاقية المستخدم: يتم الآن حفظ اتفاقية المستخدم بشكل آمن بعد الموافقة الأولى، ولن يُطلب منك الموافقة عليها في كل مرة يتم فيها فتح التطبيق.
-
-Aydınlatma Metni Onayı:
-
- KVKK kapsamında sunulan aydınlatma metni yalnızca ilk kullanımda onaylanır; tekrar gösterilmez.
-
-Privacy Notice Confirmation: The privacy notice required under data protection laws (KVKK) is now confirmed only once during initial use and will not be shown again.
-
-تأكيد إشعار الخصوصية: يتم تأكيد إشعار الخصوصية المطلوب بموجب قوانين حماية البيانات (KVKK) مرة واحدة فقط عند الاستخدام الأول، ولن يتم عرضه مرة أخرى.
+Arapça:
+تم إصدار SnapLook - عارض الصور الإصدار 1.1.
+وضع عرض الشرائح: يتم تشغيله أو إيقافه بالنقر على أيقونة عرض الشرائح في نافذة عرض الصورة.
