@@ -1,5 +1,5 @@
 SnapLook - Resim Görüntüleyici / Kullanım Koşulları ve Fikrî Mülkiyet Koruma Bildirimi /
-Tarih ve Saat: 01.06.2025
+Tarih ve Saat: 03.06.2025
 
 1. İzinsiz Dağıtım Yasağı :
 SnapLook - Resim Görüntüleyici'nin izinsiz şekilde üçüncü kişilere ücretli veya ücretsiz dağıtılması, çoğaltılması ya da paylaşılması yasaktır.
