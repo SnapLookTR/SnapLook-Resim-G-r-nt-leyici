@@ -1,4 +1,4 @@
-SnapLook – Resim Görüntüleyici / Aydınlatma Metni / Tarih: 01.06.2025
+SnapLook – Resim Görüntüleyici / Aydınlatma Metni / Tarih: 03.06.2025
 Veri Sorumlusu: Muhammed Can Yüce
 Uygulama Türü: Yerel (Offline), Bağlantısız Görüntüleyici Yazılımı
 
